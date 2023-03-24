@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\NotPhoneApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\NotPhoneApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\NotPhoneApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\NotPhoneApp.AssemblyInfo.cs
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\NotPhoneApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\bin\Debug\net6.0\NotPhoneApp.exe
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\bin\Debug\net6.0\NotPhoneApp.deps.json
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\bin\Debug\net6.0\NotPhoneApp.runtimeconfig.json
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\bin\Debug\net6.0\NotPhoneApp.dll
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\bin\Debug\net6.0\NotPhoneApp.pdb
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\NotPhoneApp.dll
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\refint\NotPhoneApp.dll
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\NotPhoneApp.pdb
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\NotPhoneApp.genruntimeconfig.cache
+D:\Visual Studio\projects\NotPhoneApp\NotPhoneApp\obj\Debug\net6.0\ref\NotPhoneApp.dll
