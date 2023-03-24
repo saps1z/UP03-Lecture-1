@@ -1,0 +1,30 @@
+D:\Visual Studio\projects\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.exe
+D:\Visual Studio\projects\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.deps.json
+D:\Visual Studio\projects\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.runtimeconfig.json
+D:\Visual Studio\projects\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.dll
+D:\Visual Studio\projects\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.pdb
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.AssemblyInfo.cs
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.dll
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\refint\MachineApp.dll
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.pdb
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.genruntimeconfig.cache
+D:\Visual Studio\projects\MachineApp\MachineApp\obj\Debug\net6.0\ref\MachineApp.dll
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.exe
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.deps.json
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.runtimeconfig.json
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.dll
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\bin\Debug\net6.0\MachineApp.pdb
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.AssemblyInfo.cs
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.dll
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\refint\MachineApp.dll
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.pdb
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\MachineApp.genruntimeconfig.cache
+D:\Visual Studio\projects\Lection 1\MachineApp\MachineApp\obj\Debug\net6.0\ref\MachineApp.dll
