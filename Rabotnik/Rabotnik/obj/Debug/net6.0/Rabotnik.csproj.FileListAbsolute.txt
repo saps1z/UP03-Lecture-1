@@ -1,0 +1,15 @@
+D:\Visual Studio\projects\Rabotnik\Rabotnik\bin\Debug\net6.0\Rabotnik.exe
+D:\Visual Studio\projects\Rabotnik\Rabotnik\bin\Debug\net6.0\Rabotnik.deps.json
+D:\Visual Studio\projects\Rabotnik\Rabotnik\bin\Debug\net6.0\Rabotnik.runtimeconfig.json
+D:\Visual Studio\projects\Rabotnik\Rabotnik\bin\Debug\net6.0\Rabotnik.dll
+D:\Visual Studio\projects\Rabotnik\Rabotnik\bin\Debug\net6.0\Rabotnik.pdb
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\Rabotnik.csproj.AssemblyReference.cache
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\Rabotnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\Rabotnik.AssemblyInfoInputs.cache
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\Rabotnik.AssemblyInfo.cs
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\Rabotnik.csproj.CoreCompileInputs.cache
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\Rabotnik.dll
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\refint\Rabotnik.dll
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\Rabotnik.pdb
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\Rabotnik.genruntimeconfig.cache
+D:\Visual Studio\projects\Rabotnik\Rabotnik\obj\Debug\net6.0\ref\Rabotnik.dll
